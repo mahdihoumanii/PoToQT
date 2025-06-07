@@ -13,7 +13,7 @@ The results are 2* Re(Conjugate(M0l) * M1l) where M0l and M1l are the respective
 Tree level can be called through the command
 
 ```
-qQtT0l[s, t, mt]
+qQtT0l[s,t,mt]
 ```
 
 OneLoop can be called through the command
