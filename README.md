@@ -1,4 +1,24 @@
 # Power-Corrections-For-Top-Quark-Pair-Transverse-Momentum-Distributions
-I provide fully analytical results for the Squared tree level Matrix elements for the processes involving top quark pairs at LO and NLO and NNLO tree-level QCD.
+Here we provide the power expansion of the One-Loop amplitudes for tt~ production. The regularization sheme is conventional dimensional regularization. The Renormalization schemes are the MSbar scheme for the strong coupling and the OS scheme for the top-quark mass and external wave function renormalization constants. 
 
-I also provide with the One-Loop QCD bare amplitude for top anti-top gluon production in the quark-antiquark reaction, contracted with the tree-level amplitude. 
+# Amplitudes
+The results are 2* Re(Conjugate(M0l) * M1l) where M0l and M1l are the respective tree level and one loop amplitudes
+
+# q(p1) + q(p2) -> q(p3) + q(p4)
+
+Tree level can be called through the command
+
+```
+qQtT0l
+```
+
+OneLoop can be called through the command
+
+```
+qQtT1l
+```
+Phase Space point is given by 
+
+```
+num
+```
