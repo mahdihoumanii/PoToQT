@@ -1,4 +1,4 @@
-# POwer-corrections-for-TOp-Quark-pair-Transverse-momentum-distributions
+# POwer corrections for TOp-Quark pair Transverse momentum distributions
 Here we provide the power expansion of the One-Loop amplitudes for tt~ production. The regularization sheme is conventional dimensional regularization. The Renormalization schemes are the MSbar scheme for the strong coupling and the OS scheme for the top-quark mass and external wave function renormalization constants. 
 The results are given in a mathematica script.
 
